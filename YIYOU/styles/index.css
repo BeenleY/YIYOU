@@ -1,0 +1,119 @@
+@charset "utf-8";
+
+body {
+   font:12px/1.5em Microsoft YaHei,tahoma,arial,Hiragino Sans GB,\5b8b\4f53,sans-serif;
+   background-color: #fff;
+   color: #828282;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font: inherit;
+}
+
+a{
+	text-decoration: none;
+	color: #666;
+}
+
+.YY_shortcut {
+	width: 1440px;
+	min-width: 1060px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #f1f1f1;
+}
+
+
+.YY_shortcut .wrap {
+	width: 1440px;
+	margin:0 auto;
+}
+
+.YY_shortcut .wrap .w_l{
+	margin-left: 190px;
+	float: left;
+}
+
+.YY_shortcut .wrap .w_l span {
+	margin-left: 25px;
+}
+
+.YY_shortcut .wrap .w_l span a {
+	color: #369000;
+}
+
+.YY_shortcut .wrap .w_r {
+	margin-right: 190px;
+    float: right;
+}
+
+.shortcut .wrap .w-r ul {
+	display: table;
+	position: relative;
+	
+}
+
+.YY_shortcut .wrap .w_r li {
+	display: inline-block;
+}
+
+.YY_shortcut .wrap .w_r li a {
+	padding:9px 13px;
+}
+
+.YY_shortcut .wrap .w_r li a:hover {
+	color: #369000;
+}
+
+.YY_shortcut .wrap .w_r .arrows-down a {
+	margin-right: 24px;
+}
+
+.YY_shortcut .wrap .w_r .arrows-down {
+	background: url(../images/下箭头.png)  no-repeat;
+	background-size: 8px;
+	background-position:70% 34%;
+}
+
+.YY_shortcut .wrap .w_r .arrows-down1 {
+	background: url(../images/car.png)  no-repeat;
+	background-position:-6% 40%;	
+}
+
+.YY_shortcut .w_r a.arrows-down1{
+    position: relative;
+}
+
+.YY_shortcut .wrap .w_r .arrows-down2 {
+    background: url(../images/menu.png)  no-repeat;
+    background-position:-5%;
+}
+
+.YY_shortcut .wrap .w_r .green {
+	color: #339000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

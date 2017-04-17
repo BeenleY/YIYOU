@@ -1,0 +1,74 @@
+@charset "utf-8";
+.YY_m3_b_r .xigua_wrapper1 {
+	display: table;
+	border-collapse: collapse;
+}
+
+.xigua_row{
+	display: table-row;
+	width:800px; 
+}
+
+.xigua_cell{
+	display: table-cell;
+}
+
+.xigua_wrapper1  figure {
+	width: 199px;
+	height: 221px;
+	border: 1px solid #d7d4d5;
+	margin-left: -1px;
+}
+.xigua_wrapper1 .xigua_frame{
+    width: 198px;
+	height: 120px;
+	line-height: 120px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+
+.xigua_wrapper1 figcaption p {
+	margin-left: 20px;
+}
+
+.xigua_wrapper1 figcaption p:nth-child(1){
+	font-size: 12px;
+	color: #686868;
+}
+
+.xigua_wrapper1 figcaption p:nth-child(2){
+	font-size: 12px;
+	color: #b2b2b2;
+	margin:5px 0 5px 20px; 
+}
+
+.xigua_wrapper1 figcaption p:nth-child(3){
+	font-size: 11px;
+	color: #f80000;
+}
+
+.xigua_wrapper1 figcaption .yuanjia {
+	color: #979797;
+	margin-left: 70px;
+	text-decoration: line-through;
+}
+
+/*.hainan_left:hover,.hainan_right:hover{
+	border: 1px solid red;
+    position: relative;
+}
+
+.xigua_cell:hover div{
+	border: 1px solid red;
+    position: relative;
+}*/
+
+/*.xigua_cell div {
+	width: 198px;
+	height: 442px;
+}*/
+
+
+
+
